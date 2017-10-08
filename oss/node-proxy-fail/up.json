@@ -1,0 +1,6 @@
+{
+  "name": "app",
+  "lambda": {
+    "timeout": 60
+  }
+}
